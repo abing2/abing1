@@ -6,5 +6,6 @@ def read():
             list.append(tuple(line.strip().split(',')))
 
         return list
+#     hh
 
 
