@@ -1,0 +1,42 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1542873752222" stop="1542873819496">
+  <name>test_login</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1542873752222" status="passed" stop="1542873783249">
+      <name>TestLogin.test_login[13333096678-123456-\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10860-MainThread"/>
+        <label name="host" value="LAPTOP-KVK3MNGO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1542873783256" status="passed" stop="1542873803439">
+      <name>TestLogin.test_login[17777777777-4444-\u5bc6\u7801\u9519\u8bef]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10860-MainThread"/>
+        <label name="host" value="LAPTOP-KVK3MNGO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1542873803440" status="passed" stop="1542873819496">
+      <name>TestLogin.test_login[-22222-\u624b\u673a\u53f7]</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="10860-MainThread"/>
+        <label name="host" value="LAPTOP-KVK3MNGO"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
